@@ -52,4 +52,4 @@ sudo nmap -sS 192.168.53.220/24 -oX scan_results.xml
 xsltproc scan_results.xml -o scan_results.html
 
 <img src="Images/8.png">
-<img src="Images/8.png">
+<img src="Images/9.png">
