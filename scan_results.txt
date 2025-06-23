@@ -1,0 +1,21 @@
+# Nmap 7.94SVN scan initiated Mon Jun 23 13:02:29 2025 as: nmap -sS -oN scan_results.txt 192.168.53.220/24
+Nmap scan report for 192.168.53.49
+Host is up (0.0079s latency).
+All 1000 scanned ports on 192.168.53.49 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: B6:88:21:45:B9:D4 (Unknown)
+
+Nmap scan report for _gateway (192.168.53.92)
+Host is up (0.0021s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 5E:C6:7B:0C:3C:B2 (Unknown)
+
+Nmap scan report for kubuntu (192.168.53.220)
+Host is up (0.000010s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT    STATE SERVICE
+902/tcp open  iss-realsecure
+
+# Nmap done at Mon Jun 23 13:02:38 2025 -- 256 IP addresses (3 hosts up) scanned in 9.19 seconds
